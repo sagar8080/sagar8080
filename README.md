@@ -16,7 +16,7 @@ I'm Sagar, a data engineer by passion with a keen interest in utilizing best sof
 - 💬 Let's chat about data engineering, software engineering, MLOps, or tech in general!
 
 ## My GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/sagardas08)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar8080&show_icons=true&theme=dark)](https://github.com/sagar8080)
 
 ## Let's Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
