@@ -19,8 +19,8 @@ I'm Sagar, a data engineer by passion with a keen interest in utilizing best sof
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar8080&show_icons=true&theme=dark)](https://github.com/sagar8080)
 
 ## Let's Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🌐 [Website](https://your-website.com)
-- 📝 [Blog](https://your-blog.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sagardas08)
+- 🌐 [Website](https://sagar8080.github.io)
+- 📝 [Blog]([https://your-blog.com](https://medium.com/@sgx08))
 
 Thanks for visiting my profile! 😊
