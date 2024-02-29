@@ -21,6 +21,6 @@ I'm Sagar, a data engineer by passion with a keen interest in utilizing best sof
 ## Let's Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sagardas08)
 - 🌐 [Website](https://sagar8080.github.io)
-- 📝 [Blog]([https://your-blog.com](https://medium.com/@sgx08))
+- 📝 [Blog](https://medium.com/@sgx08)
 
 Thanks for visiting my profile! 😊
